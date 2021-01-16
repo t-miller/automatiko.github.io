@@ -1,0 +1,12 @@
+# Site settings
+title: Automatiko
+email: automatiko-dev@googlegroups.com
+description: Automatiko is a project to help building services and functions based on workflows and decisions
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://automatiko.io" # the base hostname & protocol for your site
+
+twitter_username: @automatiko_io
+github_username: automatiko-io
+
+# Build settings
+markdown: kramdown
