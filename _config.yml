@@ -5,8 +5,8 @@ description: Automatiko is a project to help building services and functions bas
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://automatiko.io" # the base hostname & protocol for your site
 
-twitter_username: @automatiko_io
-github_username: automatiko-io
+twitter_username: "@automatiko_io"
+github_username: "automatiko-io"
 
 # Build settings
 markdown: kramdown
